@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc25b370-82f4-4ec1-9077-ea147493b653" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000676743828416" />
+      <entry key="S2" value="1.3624610086378723" />
+      <entry key="S5" value="3.3134309636725923" />
+      <entry key="S10" value="5.814530314953581" />
+      <entry key="S30" value="14.813792640391561" />
+      <entry key="S60" value="29.14811273743247" />
+      <entry key="M2" value="49.11564431478052" />
+      <entry key="M5" value="75.16457892603327" />
+      <entry key="M10" value="98.70119259857805" />
+      <entry key="M15" value="117.91106432451379" />
+      <entry key="M30" value="159.07654917547197" />
+      <entry key="H1" value="201.89105596495196" />
+      <entry key="H2" value="236.84490648334912" />
+      <entry key="H4" value="260.4010025332957" />
+      <entry key="D1" value="284.55763414938593" />
+      <entry key="W1" value="289.20863870410005" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.1096546270539E-5" />
+      <entry key="MS500" value="0.1519849103978871" />
+      <entry key="S2" value="0.6243816311404922" />
+      <entry key="S5" value="0.8282854781246406" />
+      <entry key="S10" value="0.910101905455933" />
+      <entry key="S30" value="0.9695593173251787" />
+      <entry key="S60" value="1.0068874013010338" />
+      <entry key="M2" value="1.181359008151583" />
+      <entry key="M5" value="2.128958458545829" />
+      <entry key="M10" value="4.557354614514548" />
+      <entry key="M15" value="7.363506463919491" />
+      <entry key="M30" value="14.162088952089356" />
+      <entry key="H1" value="21.39889811260521" />
+      <entry key="H2" value="27.233641263522912" />
+      <entry key="H4" value="31.129806188320654" />
+      <entry key="D1" value="35.10596472215158" />
+      <entry key="W1" value="35.870030750535825" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.050765774772264724" />
+      <entry key="MS500" value="0.5510935203535773" />
+      <entry key="S2" value="1.3146931910655968" />
+      <entry key="S5" value="3.6363005518795566" />
+      <entry key="S10" value="6.401103904171346" />
+      <entry key="S30" value="15.647182524712457" />
+      <entry key="S60" value="30.03313465690494" />
+      <entry key="M2" value="50.143637129770184" />
+      <entry key="M5" value="77.14829265742527" />
+      <entry key="M10" value="103.13480153169694" />
+      <entry key="M15" value="125.16157450149697" />
+      <entry key="M30" value="173.14802734495447" />
+      <entry key="H1" value="223.22685945087463" />
+      <entry key="H2" value="264.03991104823547" />
+      <entry key="H4" value="291.5091544916827" />
+      <entry key="D1" value="319.6595975801211" />
+      <entry key="W1" value="325.078087160421" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3I5oVOrTk86q17lRKYtAwNWSzuQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in springrest.executor": "Run",
+    "JUnit.SpringrestApplicationTests.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.SpringrestApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Alka/Downloads/springrest/springrest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.springrest.springrest.entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringrestApplication">
+    <configuration name="All in springrest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springrest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringrestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springrest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springrest.springrest.SpringrestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in springrest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc25b370-82f4-4ec1-9077-ea147493b653" name="Changes" comment="" />
+      <created>1787063818446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787063818446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
